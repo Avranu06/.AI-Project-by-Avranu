@@ -1,0 +1,9 @@
+datasets
+transformers
+sentencepiece
+emoji
+indic-nlp-library
+scikit-learn
+pandas
+torch
+huggingface_hub
